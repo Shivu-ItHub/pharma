@@ -1,0 +1,21 @@
+{
+  "name": "shiv-manish-pharmacy-desktop",
+  "version": "1.0.0",
+  "description": "Desktop version of Shiv-Manish Pharmacy Billing Software",
+  "main": "electron.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "echo \"Build step not yet implemented. To create distributable installers, consider using tools like electron-builder or electron-packager after installing them.\""
+  },
+  "keywords": [
+    "pharmacy",
+    "billing",
+    "electron",
+    "react"
+  ],
+  "author": "Shiv-Manish",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^29.0.0"
+  }
+}
